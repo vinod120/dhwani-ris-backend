@@ -10,4 +10,4 @@
 
 5. User(admin) can add the State, and Distrct also.
 
-6. Every user can see the details about other disrticts and, states, childrens data.
+6. Every user can see the details about other district and, states, childrens data.
