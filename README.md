@@ -1,6 +1,6 @@
 # dhwani-ris-backend
 
-1. This backed code conatain GET/POST method of following APIs.
+1. This backed code contain GET/POST method of (login, logout, state, district, childrens data)APIs.
 
 2. User Login, User Logout, API's, only authenticated users access manipulte the data.
 
