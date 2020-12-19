@@ -8,6 +8,6 @@
 
 4. In these states user can select District and then add children details.
 
-5. User(admin) can add the State, and Distrct also.
+5. User(admin) can add the State, and Distrct  childrens.
 
 6. Every user can see the details about other district and, states, childrens data.
