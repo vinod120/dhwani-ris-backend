@@ -46,3 +46,5 @@ const stateSchema = new Schema({
 );
 
 module.exports = mongoose.model("State", stateSchema);
+module.exports = mongoose.model("District", districtSchema);
+module.exports = mongoose.model("Childrens", childrenSchema);
