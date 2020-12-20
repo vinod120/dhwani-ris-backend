@@ -1,15 +1,14 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const userRoute = require("./routes/users");
 const dotenv = require("dotenv");
 
-dotenv.config();
+const userRoute = require('./routes/routes')
 
+dotenv.config();
 const app = express();
 
 app.use(express.json());
-
-app.use("/api/users", userRoute);
+app.use('/api/users', userRoute)
 
 mongoose.connect(
   process.env.ATLAS_URI,
