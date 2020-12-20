@@ -1,6 +1,6 @@
 # dhwani-ris-backend
 
-1. This backed code conatain GET/POST method of following APIs.
+1. This backed code contain GET/POST method of (login, logout, state, district, childrens data)APIs.
 
 2. User Login, User Logout, API's, only authenticated users access manipulte the data.
 
@@ -8,6 +8,6 @@
 
 4. In these states user can select District and then add children details.
 
-5. User(admin) can add the State, and Distrct also.
+5. User(admin) can add the State, and Distrct  childrens.
 
 6. Every user can see the details about other district and, states, childrens data.
